@@ -1,0 +1,20 @@
+El PROBLEMA:
+
+
+La presbicia es una condición natural que ocurre con la edad en la cuál el cristalino del ojo (lente), junto con los músculos ciliares (actuadores), se ven afectados por el paso de los años y por el trabajo causado de enfocar a diferentes distancias, por lo que con el tiempo se reduce nuestra capacidad para ver objetos de cerca claramente. Diversas opciones de tratameinto para la presbicia han evolucionado y emergido últimamente; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre otros. 
+
+Los lentes auotoenfocables para la correción de presbicia son los lentes que por medio de algún mecanismo físico y el uso de sensores logran corregir la potencia optíca adecuadamente.Existen varias estrategías físicas para variariar la potencia óptica de un lente, como ejercer fuerzas mecánicas, elétricas, hidráulicas, entre otras. Así mismo, existe diferentes estrategias de control y realimentación de señales externas, para ajustar los lentes a la potencia óptica correcta y corregir la visión, esto es, estimar exactamente la distancia desde la retina del ojo hasta el objeto de visión involucrado, teniendo en cuenta que en la linea de visión se encuentra el lente artificial y todas las estructuras del ojo que son responsables de la acomodación. 
+
+Un sistema que ha surgido recientemente involucra la acción de los músculos faciales (fEMG) para controlar automaticamente los lentes autoenfocables [] , permite recibir una señal visual en el cerebro de la imagen con los lentes y permite ajustar el enfoque con la acción muscular, posiblemente disminuyendo el trabajo del sistema natural para enfocar, durante tareas de visión y por ende, ayudando a tratar la presbicia. Sin emabargo, esto no se ha confirmado aún debido a que se desconoce cuantitativamente como se ajusta la forma geométrica del cristalino y de la pupíla con el uso de estos lentes y si realmente el uso de estos
+
+
+
+ por lo que entender el comportamiento del cristalino presbiope y de otras estructuras ópticas de la acomodación, como la pupila, es importante para desarrollar un sistema artificial de corrección de la distancia visual del ojo humano. 
+
+
+
+Debido a que no existe suficiente información referente en la literatura sobre el comportamiento de la pupíla mientras se enfocan objetos con la ayuda de lentes autoajustables, que especificamente son autocontrolados por el usuario por medio de señales faciales musculares, como por ejemplo frunsir el seño, controlan el enfoque del lente artificial. 
+
+
+
+Para controlar este sistema hibrido biorrealimentado  es útil conocer cuantitativamente las medidas geométricas de los elementos biológicos del sistema durante el enfoque, como el diametro de la pupila o  cristalino.
