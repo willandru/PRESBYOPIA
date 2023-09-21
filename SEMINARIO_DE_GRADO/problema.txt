@@ -10,25 +10,5 @@ Se han realizado avances importantes para medir de forma cuantitativa la respues
 Por otro lado, no se ha realizado aún un experimento con la población con presbicia donde se pueda determinar si el sistema hibrido bajo condiciones de fatiga muscular es capaz de delagar trabajo a la parte artificial para liberar del cansancio al sistema natural, es decir para relajar los músculos ciliares. 
 
 
-INTRODUCCION:
-
-
-PRESBICIA
-
-
-ALTERNATIVAS
-Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
-
-LENTES AUTOENFOCABLES
-Los lentes auotoenfocables para corregir la presbicia son sistemas con lentes que por medio de algún mecanismo físico y el uso de sensores, logran ajustar la potencia optíca  requerida para ver claramente[].Existen varias estrategías físicas para variariar la potencia óptica de algunos lentes, como ejercer fuerzas mecánicas, eléctricas, hidráulicas, entre otras []. Así mismo, existe diferentes estrategias de control [] y uso de señales externas [], que sirven para ajustar la potencia óptica de los lentes y corregir la visión, esto es, estimar con precisión la distancia que hay desde la retina* del ojo hasta el objeto de visión involucrado, teniendo en cuenta que en la linea de visión se encuentran el lente artificial y todas las demás estructuras del ojo que son responsables de la acomodación. 
-
-HIBRIDO
-
-MONTAJE EXPERIMENTAL
-
-JSUTIFICACION DE LA PROBLEMÁTICA
-
-PURKINJE
-
 
 
