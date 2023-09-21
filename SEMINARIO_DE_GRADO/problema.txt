@@ -1,17 +1,20 @@
 El PROBLEMA:
 
 
-La presbicia es una condición natural que ocurre con la edad en donde el cristalino del ojo, junto con los músculos ciliares, se ven afectados por el paso de los años y se va reduciendo paulatinamente la capacidad de ver de cerca[]. Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
+La presbicia es una condición natural que ocurre con la edad, donde el cristalino del ojo junto con los músculos ciliares, se ven afectados por el paso de los años y su capacidad para ayudarnos a enfocar se va reduciendo paulatinamente, disminuyendo así nuestra capacidad para ver de cerca[]. Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
 
+Una estrategia de control reciente que utiliza señales musculares faciales para controlar automáticamente el enfoque de un par de lentes optoelectrónicos y corregir así la presbicia[], permite al cerebro ajustar a voluntad la potencia óptica del lente artificial y natural (cristalino) y encargarse de generar una visión clara, corrigiendo no solo la presbicia sino presuntamente aliviando la fatiga muscular asociada con ver de cerca. Sin embargo, de este sistema no se conoce aún de forma objetiva (cuantitativa) cuál es el comportamiento conjunto del cristalino con la pupila mientras se controla la potencia óptica, lo cual es importante conocer por dos motivos principales; para saber si con el uso de los lentes el sistema visual se autoregula y el cerebro delega mayor trabajo óptico a la parte artificial ralajando los musculos ciliares para aliviar la visión cansada, y por otro lado para comprender de una forma objetiva el comportamiento conjunto del sistema y por ende ayudar a mejorar la controlabilidad del mismo. 
 
-Una estrategia de control reciente que usa las señales de los músculos faciales para controlar automaticamente los lentes externos [], permite al cerebro ajustar a voluntad la pontencia óptica del lente artificial y natural y encargarse de generar una visión clara. Sin embargo, en este sistema no se conoce cunatitativamente como es el comportamiento del ojo, especificamente del cristalino y la pupila mientras se autocontrola la potencia óptica, lo cual es importante conocer por dos motivos especiales; para saber si con el uso de los lentes el sistema visual si se autoregula y el cerebro delega mayor potencia óptica a la parte artificial ralajando los musculos ciliares y ayudando con la visión cansada, y por otro lado para comprender de una forma objetiva el comportamiento conjunto del sistema y por ende ayudar a mejorar la controlabilidad del mismo. 
+Se han realizado avances importantes para medir de forma cuantitativa la respuesta de control del sistema, manteniendo una distancia de enfoque constante, es decir una potencia óptica del cristalino constante, por medio de un montaje experimental especial donde se pueden controlar algunas variables externas como la luminosidad. No obstante, el efecto que tiene la pupila al variar su diametro para corregir el enfoque aún no se ha medido, por lo que es importante establecer que tan significativo es el rol de la pupila en la controlabilidad de este sistema híbrido.
 
+Por otro lado, no se ha realizado aún un experimento con la población con presbicia donde se pueda determinar si el sistema hibrido bajo condiciones de fatiga muscular es capaz de delagar trabajo a la parte artificial para liberar del cansancio al sistema natural, es decir para relajar los músculos ciliares. 
 
 
 INTRODUCCION:
 
 
 PRESBICIA
+
 
 ALTERNATIVAS
 Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
@@ -22,6 +25,10 @@ Los lentes auotoenfocables para corregir la presbicia son sistemas con lentes qu
 HIBRIDO
 
 MONTAJE EXPERIMENTAL
+
+JSUTIFICACION DE LA PROBLEMÁTICA
+
+PURKINJE
 
 
 
