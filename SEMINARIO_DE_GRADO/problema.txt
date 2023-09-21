@@ -1,9 +1,27 @@
 El PROBLEMA:
 
 
-La presbicia es una condición natural que ocurre con la edad en donde el cristalino del ojo, junto a los músculos ciliares, se ven afectados por el paso de los años y se va reduciendo la capacidad de ver de cerca paulatinamente[]. Diversas opciones de tratameinto han evolucionado y emergido últimamente para la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
+La presbicia es una condición natural que ocurre con la edad en donde el cristalino del ojo, junto con los músculos ciliares, se ven afectados por el paso de los años y se va reduciendo paulatinamente la capacidad de ver de cerca[]. Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
 
-Los lentes auotoenfocables para corregir la presbicia son sistemas con lentes que por medio de algún mecanismo físico y el uso de sensores, logran ajustar la potencia optíca  requerida para ver claramente[].Existen varias estrategías físicas para variariar la potencia óptica de algunos lentes, como ejercer fuerzas mecánicas, elétricas, hidráulicas, entre otras []. Así mismo, existe diferentes estrategias de control [] y uso de señales externas [], que sirven para ajustar la potencia óptica de los lentes y corregir la visión, esto es, estimar con precisión la distancia que hay desde la retina* del ojo hasta el objeto de visión involucrado, teniendo en cuenta que en la linea de visión se encuentran el lente artificial y todas las demás estructuras del ojo que son responsables de la acomodación. 
 
-Una estrategia de control reciente que usa las señales de los músculos faciales para controlar automaticamente los lentes externos [], permite al cerebro ajustar a voluntad la pontencia óptica del lente artificial y natural y encargarse de generar una visión clara. Sin embargo, en este sistema no se conoce cunatitativamente como es el comportamiento del ojo, especificamente del cristalino y la pupila mientras se autocontrola la potencia óptica, lo cual es importante conocer por dos motivos especiales; para saber si con el uso de los lentes el sistema visual se autoregula y el cerebro delega mayor potencia óptica a la parte artificial ralajando los musculos ciliares y ayudando con la visión cansada, y por otro lado para comprender de una forma objetiva el comportamiento conjunto del sistema y por ende ayudar a mejorar la controlabilidad del mismo. 
+Una estrategia de control reciente que usa las señales de los músculos faciales para controlar automaticamente los lentes externos [], permite al cerebro ajustar a voluntad la pontencia óptica del lente artificial y natural y encargarse de generar una visión clara. Sin embargo, en este sistema no se conoce cunatitativamente como es el comportamiento del ojo, especificamente del cristalino y la pupila mientras se autocontrola la potencia óptica, lo cual es importante conocer por dos motivos especiales; para saber si con el uso de los lentes el sistema visual si se autoregula y el cerebro delega mayor potencia óptica a la parte artificial ralajando los musculos ciliares y ayudando con la visión cansada, y por otro lado para comprender de una forma objetiva el comportamiento conjunto del sistema y por ende ayudar a mejorar la controlabilidad del mismo. 
+
+
+
+INTRODUCCION:
+
+
+PRESBICIA
+
+ALTERNATIVAS
+Diversas alternativas han evolucionado y emergido últimamente para el tratamiento de la presbicia; gafas para leer,lentes de contacto, gotas oftálmicas, implantes intraoculares, lentes inteligentes autoenfocables, entre muchos otros [], que mejoran o ayudan en el proceso de enfocar claramente. 
+
+LENTES AUTOENFOCABLES
+Los lentes auotoenfocables para corregir la presbicia son sistemas con lentes que por medio de algún mecanismo físico y el uso de sensores, logran ajustar la potencia optíca  requerida para ver claramente[].Existen varias estrategías físicas para variariar la potencia óptica de algunos lentes, como ejercer fuerzas mecánicas, eléctricas, hidráulicas, entre otras []. Así mismo, existe diferentes estrategias de control [] y uso de señales externas [], que sirven para ajustar la potencia óptica de los lentes y corregir la visión, esto es, estimar con precisión la distancia que hay desde la retina* del ojo hasta el objeto de visión involucrado, teniendo en cuenta que en la linea de visión se encuentran el lente artificial y todas las demás estructuras del ojo que son responsables de la acomodación. 
+
+HIBRIDO
+
+MONTAJE EXPERIMENTAL
+
+
 
