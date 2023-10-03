@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Trabajo de Grado" company="" webLink="http://" view-date="2023-09-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Trabajo de Grado" company="" webLink="http://" view-date="2023-08-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="es_ES">
     <description/>
-    <view zooming-state="default:9" id="gantt-chart">
+    <view zooming-state="default:11" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="200" order="0"/>
         <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="color.recent">
-            <![CDATA[#ffff33 #ff9933 #00ff00 #3300cc #003399 #666666 #ffcc99 #ffff99 #990099 #0099cc]]>
+            <![CDATA[#0099cc #ffff33 #ff9933 #00ff00 #3300cc #003399 #666666 #ffcc99 #ffff99 #990099]]>
         </option>
     </view>
     <view id="resource-table">
@@ -42,11 +42,14 @@
         <task id="2" name="Semestre 2" color="#3300cc" meeting="false" start="2024-01-22" duration="43" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         <task id="3" name="Semana Receso" color="#666666" meeting="false" start="2024-03-25" duration="6" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         <task id="4" name="Semana 10-16" color="#3300cc" meeting="false" start="2024-04-01" duration="35" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="5" name="Etapa 1" color="#ffff33" meeting="false" start="2023-10-02" duration="40" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="6" name="Etapa 2" color="#ff9933" meeting="false" start="2023-10-31" duration="19" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="Etapa 1: LABVIEW &amp; +" color="#ffff33" meeting="false" start="2023-10-02" duration="40" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        <task id="6" name="Etapa 2" color="#ff9933" meeting="false" start="2023-10-31" duration="19" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true">
+            <task id="10" name="task_10" color="#8cb6ce" meeting="false" start="2023-10-31" duration="15" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
+            <task id="11" name="task_11" color="#8cb6ce" meeting="false" start="2023-11-08" duration="13" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
+        </task>
         <task id="9" name="Etapa 2" color="#ff9933" meeting="false" start="2024-01-22" duration="50" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         <task id="7" name="Etapa 3" color="#00ff00" meeting="false" start="2024-04-01" duration="26" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="8" name="Escritura Final Documento" color="#ffff33" meeting="false" start="2024-05-06" duration="10" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        <task id="8" name="Escritura Final Documento" color="#0099cc" meeting="false" start="2024-05-06" duration="10" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
