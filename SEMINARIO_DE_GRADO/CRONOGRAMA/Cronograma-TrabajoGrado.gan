@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Trabajo de Grado" company="" webLink="http://" view-date="2023-08-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Trabajo de Grado" company="" webLink="http://" view-date="2023-10-01" view-index="0" gantt-divider-location="380" resource-divider-location="300" version="3.2.3230" locale="es_ES">
     <description/>
     <view zooming-state="default:11" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="200" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
-        <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
+        <field id="tpd3" name="Nombre" width="217" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="81" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="81" order="2"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="color.recent">
-            <![CDATA[#0099cc #ffff33 #ff9933 #00ff00 #3300cc #003399 #666666 #ffcc99 #ffff99 #990099]]>
+            <![CDATA[#00ff00 #ff9933 #ffff33 #ff0000 #000000 #0099cc #3300cc #003399 #666666 #ffcc99]]>
         </option>
     </view>
     <view id="resource-table">
@@ -42,14 +42,40 @@
         <task id="2" name="Semestre 2" color="#3300cc" meeting="false" start="2024-01-22" duration="43" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         <task id="3" name="Semana Receso" color="#666666" meeting="false" start="2024-03-25" duration="6" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         <task id="4" name="Semana 10-16" color="#3300cc" meeting="false" start="2024-04-01" duration="35" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="5" name="Etapa 1: LABVIEW &amp; +" color="#ffff33" meeting="false" start="2023-10-02" duration="40" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="6" name="Etapa 2" color="#ff9933" meeting="false" start="2023-10-31" duration="19" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true">
-            <task id="10" name="task_10" color="#8cb6ce" meeting="false" start="2023-10-31" duration="15" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
-            <task id="11" name="task_11" color="#8cb6ce" meeting="false" start="2023-11-08" duration="13" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="Etapa 1: Modificar el Sistema" color="#ffff33" meeting="false" start="2023-10-17" duration="70" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="false">
+            <task id="14" name="Ver la Caja" color="#ffff33" meeting="false" start="2023-10-17" duration="9" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="15" name="Ver los Materiales" color="#ffff33" meeting="false" start="2023-10-17" duration="9" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="36" name="Solicitar Espacio de Trabajo" color="#ffff33" meeting="false" start="2023-10-24" duration="9" complete="0" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="31" name="Conseguir Materiales" color="#ffff33" meeting="false" start="2023-10-24" duration="10" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="20" name="Integrar GTEC" color="#ffff33" meeting="false" start="2023-10-31" duration="17" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="22" name="Modificar Codigo LABView" color="#ffff33" meeting="false" start="2023-10-31" duration="60" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="21" name="Integrar la Camara" color="#ffff33" meeting="false" start="2023-11-17" duration="6" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
         </task>
-        <task id="9" name="Etapa 2" color="#ff9933" meeting="false" start="2024-01-22" duration="50" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="7" name="Etapa 3" color="#00ff00" meeting="false" start="2024-04-01" duration="26" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
-        <task id="8" name="Escritura Final Documento" color="#0099cc" meeting="false" start="2024-05-06" duration="10" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        <task id="12" name="Etapa 2: Diseñar y Realizar Experimentos" color="#ff9933" meeting="false" start="2023-10-16" duration="99" complete="0" thirdDate="2023-10-30" thirdDate-constraint="0" expand="false">
+            <task id="32" name="Definir Pregunta Investigación" color="#ff9933" meeting="false" start="2023-10-16" duration="7" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="17" name="Diseñar el Experimento" color="#ff9933" meeting="false" start="2023-10-17" duration="70" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="34" name="Buscar Consideraciones Éticas" color="#ff9933" meeting="false" start="2023-10-17" duration="30" complete="0" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="18" name="Hablar con Ing. Catalina" color="#ff9933" meeting="false" start="2023-10-17" duration="12" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="33" name="Revisión Literatura" color="#ff9933" meeting="false" start="2023-10-19" duration="35" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="16" name="Hablar con Médico -Profe" color="#ff9933" meeting="false" start="2023-10-24" duration="12" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="37" name="Redactar Consentimiento Informado" color="#ff9933" meeting="false" start="2023-11-07" duration="8" complete="0" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="38" name="Tramitar Permiso Ético" color="#ff9933" meeting="false" start="2023-11-16" duration="4" complete="0" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="23" name="Buscar las Personas" color="#ff9933" meeting="false" start="2024-01-22" duration="15" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="39" name="Realizar el Experimento" color="#ff9933" meeting="false" start="2024-02-09" duration="15" complete="0" thirdDate="2024-01-22" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="9" name="Etapa 3: Crear Base de Datos" color="#00ff00" meeting="false" start="2023-10-17" duration="98" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="false">
+            <task id="19" name="Solicitar Base de Datos PUJ" color="#00ff00" meeting="false" start="2023-10-17" duration="5" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="25" name="Diseñar Base de Datos" color="#00ff00" meeting="false" start="2023-10-24" duration="20" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="24" name="Hablar con Ing. Carreño" color="#00ff00" meeting="false" start="2023-11-06" duration="15" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="40" name="Implementar Base de Datos" color="#00ff00" meeting="false" start="2023-11-20" duration="50" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
+            <task id="26" name="Almacenar Datos" color="#00ff00" meeting="false" start="2024-02-09" duration="15" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="27" name="Etapa 4: Análizar los Datos" color="#ff0000" meeting="false" start="2024-03-04" duration="43" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="false">
+            <task id="28" name="Análisis Exploratorio" color="#ff0000" meeting="false" start="2024-03-04" duration="8" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="29" name="Análisis Inferencial" color="#ff0000" meeting="false" start="2024-03-12" duration="20" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+            <task id="30" name="Conclusiones" color="#ff0000" meeting="false" start="2024-04-04" duration="20" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="13" name="Redacción Trabajo Final" color="#000000" meeting="false" start="2024-04-16" duration="19" complete="0" thirdDate="2023-08-01" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
